@@ -1,4 +1,4 @@
-package h_07;
+package tippmixorai;
 
 import java.util.Random;
 import static java.lang.System.out;

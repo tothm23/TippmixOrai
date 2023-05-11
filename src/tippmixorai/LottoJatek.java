@@ -1,6 +1,6 @@
-package h_07;
+package tippmixorai;
 
-import static h_07.H_07.feltolt;
+import static tippmixorai.H_07.feltolt;
 import static java.lang.System.out;
 import java.util.ArrayList;
 import java.util.Scanner;
